@@ -29,7 +29,7 @@ Para rodar a aplicação e verificar se todos os testes estão passando, certifi
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/gamer-profile-xunit.git](https://github.com/IcaroFeroliv/gamer-profile-xunit/)
+   git clone https://github.com/IcaroFeroliv/gamer-profile-xunit
    ```
 2. Navegue até a pasta raiz da solução:
    ```bash
